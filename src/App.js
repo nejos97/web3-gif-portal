@@ -154,7 +154,6 @@ const App = () => {
         </div>
       )
     }
-
     return (
       <div className="connected-container">
         <form onSubmit={(event) => {
